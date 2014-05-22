@@ -1,0 +1,1 @@
+Scrappy - Salvaging addon for wildstar

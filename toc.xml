@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="MrBushido" APIVersion="8" Name="Scrappy" Description="Replacement for auto salvaing UI">
+    <Script Name="Scrappy.lua"/>
+    <Form Name="Scrappy.xml"/>
+</Addon>

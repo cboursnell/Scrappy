@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sprites>
+    <Sprite Name="Trans50pcBlack" Cycle="1">
+        <Frame Texture="Scrappy\Sprites\BlackTransparent.tga" x0="0" x1="32" x2="64" x3="193" x4="224" x5="256" y0="0" y1="32" y2="64" y3="192" y4="224" y5="256" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+    <Sprite Name="HalfFrame" Cycle="1">
+        <Frame Texture="UI\Assets\TexPieces\UI_CRB_Basekit_2_113_1037.tex" x0="72" x1="86" x2="100" x3="116" x4="127" x5="144" y0="0" y1="18" y2="28" y3="64" y4="74" y5="92" HotspotX="0" HotspotY="0" Duration="1.000" StartColor="white" EndColor="white"/>
+    </Sprite>
+</Sprites>
